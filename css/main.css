@@ -1,0 +1,85 @@
+body{
+	background: url('../img/bg.jpeg') center top no-repeat;
+	background-attachment: fixed;
+	font-family: 'Open Sans', sans-serif;
+}
+
+header{
+	height: 150px;
+	background: #FFFFFF;
+}
+
+header h1{
+	display: block;
+	font-size: 60px;
+	font-family: 'Baloo Bhai';
+	color: #44aaff;
+	margin: 0px;
+	padding-top: 40px;
+}
+
+footer{
+	height: 120px;
+	background: #FFFFFF;
+	border-top: 5px solid #FFFFFF;
+	padding-top: 30px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+nav, .navbar{
+	background: rgba(255,255,255, 0.5);
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.navbar a{
+	color: #FFFFFF;
+}
+
+.navbar span{
+	background: #FFFFFF
+}
+
+.navbar-nav{
+	float: none;
+}
+
+nav input{
+	margin: 12px 0px 0px 4px;
+}
+
+main section{
+	background: #FFFFFF;
+	border-radius: 5px;
+	padding: 15px;
+	margin-bottom: 30px;
+}
+
+section img {
+	width: 100%;
+	height: auto;
+}
+
+.section-carousel p {
+	display: block;
+	widows: 100%;
+	font-size: 30px;
+	color: #44aaff;
+	text-align: center;
+	margin-top:20px;
+}
+
+h1 {
+	display: block;
+	font-size: 40px;
+	font-family: 'Baloo Bhai';
+	color: #44aaff;
+	margin: 0px;
+	padding-top: 40px;
+}
+
+h2 {
+	color: #44aaff;
+	font-size: 28px;
+	margin: 10px 0px 20px 0px;
+}
